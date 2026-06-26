@@ -60,6 +60,9 @@ Ayrıca iki pratik klinik araç:
   ("1.000 kadında kaç vaka?" tablosu; MHRA + NICE sayılarıyla).
 - **`RECETELEME-ALGORITMASI.md`** — tek sayfa reçeteleme akışı (yol → rejim →
   preparat/doz → takip; BMS 2024 doz verisiyle).
+- **`RECETELEME-ALGORITMASI-TURKIYE.md`** — aynı akışın **Türkiye'de bulunan
+  preparat/ticari isimlerle** (Climara, Estrofem, Progestan, Femoston, Cyclo-Progynova,
+  Livial, Ovestin vb.) uyarlanmış hali + SGK/reçete notları.
 
 ---
 
