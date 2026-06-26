@@ -48,6 +48,15 @@ ayırt etmektir.
 
 ---
 
+## ⭐ Hızlı başlangıç: `KILAVUZ-KARSILASTIRMA.md`
+
+Beş büyük kılavuzun (NAMS 2022 · ESE 2025 · NICE NG23 · Endocrine Society 2015 ·
+IMS 2024) **başlama yaşı, transdermal tercihi, VTE/inme, meme kanseri, progestojen,
+GSM, süre, kompound biyoidentik** konularındaki duruşunu **tek sayfada** karşılaştıran
+özet — PDF'lerin tam metninden çıkarılmıştır. Pratikte en hızlı referans burasıdır.
+
+---
+
 ## 1. İndirilen PDF'ler (bu klasörde)
 
 ### 📁 01-Uluslararasi-Kilavuzlar
