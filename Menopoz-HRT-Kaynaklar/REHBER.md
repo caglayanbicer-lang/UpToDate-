@@ -55,6 +55,12 @@ IMS 2024) **başlama yaşı, transdermal tercihi, VTE/inme, meme kanseri, proges
 GSM, süre, kompound biyoidentik** konularındaki duruşunu **tek sayfada** karşılaştıran
 özet — PDF'lerin tam metninden çıkarılmıştır. Pratikte en hızlı referans burasıdır.
 
+Ayrıca iki pratik klinik araç:
+- **`HASTA-KARAR-FORMU.md`** — hasta–hekim ortak karar / risk iletişim formu
+  ("1.000 kadında kaç vaka?" tablosu; MHRA + NICE sayılarıyla).
+- **`RECETELEME-ALGORITMASI.md`** — tek sayfa reçeteleme akışı (yol → rejim →
+  preparat/doz → takip; BMS 2024 doz verisiyle).
+
 ---
 
 ## 1. İndirilen PDF'ler (bu klasörde)
