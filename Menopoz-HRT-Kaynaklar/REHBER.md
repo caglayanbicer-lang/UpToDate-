@@ -24,7 +24,8 @@ ayırt etmektir.
 2. `01/NICE-NG23-...pdf` — pratik, hasta-merkezli, "risk/fayda konuşması" için ideal.
 
 **Aşama 2 — Güncel tartışmalar ve nüanslar:**
-3. IMS 2024 White Paper (aşağıda link) — "MHT reçetelemenin 5W'si" çerçevesi.
+3. `01/IMS-2024-White-Paper-Menopause-MHT.pdf` — "MHT reçetelemenin 5W'si" çerçevesi.
+   (İleri: `01/ESE-2025-...pdf` ve `01/Endocrine-Society-2015-...pdf` endokrinoloji bakışı.)
 4. `02/NAMS-2020-Genitourinary-Syndrome-Menopause-GSM.pdf` — lokal/vajinal tedaviler.
 5. `01/NAMS-2023-Nonhormone-Therapy-Position-Statement.pdf` — HRT alamayan/almak
    istemeyen hastalar; fezolinetant (NK3 antagonisti) dahil non-hormonal seçenekler.
@@ -53,6 +54,9 @@ ayırt etmektir.
 | Dosya | Ne / Neden önemli |
 |---|---|
 | **NAMS-2022-Hormone-Therapy-Position-Statement** | The Menopause Society (eski NAMS) 2022 — alanın **altın standart** konsensüsü. "Yarar/risk, başlangıçtan itibaren 10 yıl veya 60 yaş altı pencere", VMS ve GSM'de etkinlik, kemik koruması. *Menopause 2022;29(7):767-794.* |
+| **IMS-2024-White-Paper-Menopause-MHT** | International Menopause Society 2024 White Paper — en güncel uluslararası tartışma çerçevesi ("MHT reçetelemenin 5W'si": Who/What/When/Why/Where). *Climacteric 2024;27(5):441-457.* |
+| **ESE-2025-Menopause-and-Perimenopause-Guideline** | European Society of Endocrinology 2025 — en yeni Avrupa kanıta dayalı kılavuzu (peri/menopoz değerlendirme ve yönetimi). *Eur J Endocrinol 2025;193(4):G49.* |
+| **Endocrine-Society-2015-Treatment-of-Symptoms-of-Menopause** | Endocrine Society 2015 CPG — endokrinoloji perspektifinden klasik referans. *J Clin Endocrinol Metab 2015;100(11):3975-4011.* |
 | **NICE-NG23-Menopause-Identification-and-Management** | Birleşik Krallık NICE kılavuzu (2024 güncellemesi, 105 sayfa). Tanı, semptom yönetimi, HRT risk/fayda iletişimi, BDT, GSM. Pratik ve hasta-merkezli. |
 | **NAMS-2023-Nonhormone-Therapy-Position-Statement** | Hormon dışı seçenekler: BDT, klinik hipnoz, SSRI/SNRI, gabapentin, **fezolinetant**, oksibutinin. HRT kontrendike/istenmeyen hastalar için. |
 
@@ -74,31 +78,32 @@ ayırt etmektir.
 | Dosya | Ne / Neden önemli |
 |---|---|
 | **BMS-2026-HRT-Guide** | British Menopause Society pratik reçeteleme rehberi (akış şeması). |
+| **BMS-2024-HRT-Preparations-and-Equivalent-Alternatives** | BMS preparat eşdeğerlik tablosu — günlük pratikte en çok kullanılan referans (estradiol/progestojen ürünleri ve doz eşdeğerlikleri). |
 
 ---
 
-## 2. İndirilemeyen ama KRİTİK kaynaklar (resmî linkler)
+## 2. Kaynak linkleri (referans)
 
-Bunlar bot koruması veya ücretli erişim nedeniyle otomatik indirilemedi. Tarayıcıdan
-ücretsiz/erişilebilir; mutlaka okuyun:
+> Güncelleme (26 Haziran 2026): Aşağıdaki dört kaynak başta bot koruması/ücretli erişim
+> nedeniyle otomatik indirilememişti; kullanıcı tarafından **manuel indirilip klasöre
+> eklendi** (✓). Resmî linkleri referans olarak burada tutuyoruz.
 
-- **IMS 2024 White Paper — "Menopause and MHT in 2024: addressing the key controversies"**
-  En güncel uluslararası tartışma çerçevesi ("MHT'nin 5W'si"). IMS sitesinde ücretsiz:
-  https://www.imsociety.org/wp-content/uploads/2024/09/Menopause-and-MHT-in-2024-addressing-the-key-controversies-an-International-Menopause-Society-White-Paper.pdf
-  (DOI: 10.1080/13697137.2024.2394950 — *Climacteric* 2024;27(5):441-457)
+- ✓ **IMS 2024 White Paper — "Menopause and MHT in 2024: addressing the key controversies"**
+  (eklendi: `01-Uluslararasi-Kilavuzlar/`). DOI: 10.1080/13697137.2024.2394950 —
+  *Climacteric* 2024;27(5):441-457.
+  https://www.tandfonline.com/doi/full/10.1080/13697137.2024.2394950
 
-- **BMS — "HRT Preparations and Equivalent Alternatives" (Tool for Clinicians, 2024)**
-  Günlük pratikte en çok kullanılan preparat eşdeğerlik tablosu:
-  https://thebms.org.uk/wp-content/uploads/2024/02/15-BMS-TfC-HRT-preparations-and-equivalent-alternatives-JAN2024-B.pdf
-  Tüm BMS klinisyen araçları: https://thebms.org.uk/publications/tools-for-clinicians/
+- ✓ **BMS — "HRT Preparations and Equivalent Alternatives" (Tool for Clinicians, 2024)**
+  (eklendi: `04-Klinisyen-Araclari/`).
+  https://thebms.org.uk/publications/tools-for-clinicians/
 
-- **Endocrine Society — "Treatment of Symptoms of the Menopause" (2015 CPG)**
-  *J Clin Endocrinol Metab 2015;100(11):3975-4011* (ücretli):
+- ✓ **Endocrine Society — "Treatment of Symptoms of the Menopause" (2015 CPG)**
+  (eklendi: `01-Uluslararasi-Kilavuzlar/`). *J Clin Endocrinol Metab 2015;100(11):3975-4011.*
   https://academic.oup.com/jcem/article/100/11/3975/2836060
-  Kılavuz kaynak sayfası: https://www.endocrine.org/clinical-practice-guidelines/treatment-of-menopause
 
-- **European Society of Endocrinology (ESE) — Menopause & Perimenopause CPG (2025)**
-  En yeni Avrupa kılavuzu: https://academic.oup.com/ejendo/article/193/4/G49/8281862
+- ✓ **European Society of Endocrinology (ESE) — Menopause & Perimenopause CPG (2025)**
+  (eklendi: `01-Uluslararasi-Kilavuzlar/`). *Eur J Endocrinol 2025;193(4):G49.*
+  https://academic.oup.com/ejendo/article/193/4/G49/8281862
 
 - **The Menopause Society (eski NAMS) — ana mesleki sayfa** (üyelik ile tüm pozisyon
   bildirileri ve MenoPro uygulaması): https://menopause.org/professional-resources
